@@ -1,0 +1,14 @@
+tr.pointer {
+    cursor : pointer;
+}
+
+th.pointer {
+    cursor: pointer;
+}
+
+@media screen and (max-width: 262.5mm) and (min-width: 0) {
+
+    #memberinfo {
+        display: none;
+    }
+}

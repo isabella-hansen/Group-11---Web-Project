@@ -1,0 +1,28 @@
+.ck .ck-editor__editable_inline {
+    min-height: 25rem;
+    border-radius: .5rem;
+    border: 1px solid #ced4da;
+}
+.ck .ck-reset {
+    border: 1px solid #ced4da;
+}
+.ck .ck-toolbar {
+    background-color: #e9ecef;
+    border: 1px solid #ced4da;   
+}
+.card-header {
+    background-color: #e9ecef;
+    padding: 0.4rem 0.9rem;
+    border-radius: 0;    
+}
+
+.ck {
+    --ck-border-radius: 5px;
+    --ck-color-input-border: #ced4da;
+    --ck-color-panel-border: #ced4da;    
+    --ck-color-input-disabled-border: #ced4da;
+}
+
+.alert {
+    z-index:2000;
+}
